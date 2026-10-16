@@ -155,7 +155,7 @@ def page(title, body):
             "</div></div>"
             "<div class='main'>%s</div>"
             "<div class='footer'>Snip &mdash; short links for onion addresses<br>"
-            "No accounts. No tracking beyond a click count.</div>"
+            "No accounts. No tracking beyond a click count.<br><span style='font-size:11px;opacity:.75'>Donate: <code style='font-size:10px'>0x62A098898048c79FF14De07F3BE9310398E5eCF8</code></span></div>"
             "</div>"
             "<script>"
             "function copyLink(){var i=document.getElementById('shortlink');"
